@@ -73,6 +73,7 @@ AI Integration (Chatbot)
 🌐 Live App
 
 👉 Explore TechiBug Now
+    https://unrivaled-selkie-beb8e4.netlify.app
 
 
 ---
@@ -87,5 +88,5 @@ Contributions, ideas, and feedback are welcome! Help us make tech learning smoot
 📬 Contact
 
 Feel free to reach out if you have suggestions or want to collaborate:
-📧 [YourEmail@example.com]
+📧 [rucharathod8@gmail.com]
 
